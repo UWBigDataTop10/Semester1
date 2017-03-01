@@ -1,2 +1,0 @@
-http://chart.finance.yahoo.com/table.csv?s=FLWS&a=0&b=1&c=2007&d=0&e=1&f=2017&g=d&ignore=.csv
-http://chart.finance.yahoo.com/table.csv?s=TWOU&a=0&b=1&c=2007&d=0&e=1&f=2017&g=d&ignore=.csv
